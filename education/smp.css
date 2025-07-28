@@ -1,0 +1,30 @@
+.navbar {
+    background-color:#E59D89;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 60px;
+}
+
+.nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0%;
+
+}
+
+.body_utama {
+    background-color: #81bdd9;
+    background: linear-gradient(to bottom,#81bdd9, #D9B481);
+    min-height: 100vh;
+}
+
+.text-center {
+    padding-top: 220px;
+    padding-bottom: 200px;
+    color: #64204d;
+    font: bold;
+    font-family: Arial;
+}
+
+.text-footer {
+    text-align: center;
+}
